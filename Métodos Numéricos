@@ -1,0 +1,12 @@
+# Algoritmo para determinar o número de máquina
+
+u = 1 #inicinado a variável u
+
+while u + 1 != 1:
+	u = u * 0.5
+
+u = 2*u # o número u foi dividio uma vez além do ncessário, isso deve ser corrigido
+
+#exibir o valor de máquina antela com 4 casas decimais e na forma de notação científica
+
+print ('O núemro de máquina é: ' + str(u)) 
