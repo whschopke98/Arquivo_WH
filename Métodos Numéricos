@@ -7,6 +7,5 @@ while u + 1 != 1:
 
 u = 2*u # o número u foi dividio uma vez além do ncessário, isso deve ser corrigido
 
-#exibir o valor de máquina antela com 4 casas decimais e na forma de notação científica
-
-print ('O núemro de máquina é: ' + str(u)) 
+# exibir o valor de máquina na tela com 4 casas decimais e na forma de notação científica
+print ('O núemro de máquina é: ' + str(u))
